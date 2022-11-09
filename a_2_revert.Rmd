@@ -7,7 +7,6 @@ output: html_document
 ```{r}
 #first commit
 add.scope()
-
 # second commit
 add.scope()
 ```
